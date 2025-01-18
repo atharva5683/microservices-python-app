@@ -29,7 +29,7 @@ Before you begin, ensure that the following prerequisites are met:
 
 6. **Databases:** Set up PostgreSQL and MongoDB for your application.
 
-### High Level Flow of Application Deployment
+### High Level Flow of Application Deployment 
 
 Follow these steps to deploy your microservice application:
 
